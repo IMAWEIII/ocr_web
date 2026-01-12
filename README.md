@@ -5,10 +5,11 @@ colorFrom: blue
 colorTo: green
 sdk: streamlit
 sdk_version: 1.31.1
-app_file: app.py  # Change if your main script has a different name
-python_version: 3.12
+app_file: app.py
+python_version: 3.13
 pinned: false
 ---
+
 
 # EasyOCR + Translation Web App
 
